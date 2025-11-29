@@ -1,0 +1,11 @@
+/src
+  /routes
+    upload.py
+    download.py
+  /services
+    s3_service.py
+  /config
+    settings.py
+main.py
+requirements.txt
+Dockerfile
